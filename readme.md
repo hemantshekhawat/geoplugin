@@ -1,5 +1,8 @@
 jairovsky/geoplugin
 ===================
+
+![Build status](https://api.travis-ci.org/jairovsky/geoplugin.svg?branch=master)
+
 Is a tiny little PHP 5.3+ wrapper library for [GeoPlugin](http://geoplugin.com) webservice.
 This library is my first composer project, so bear with me in case of any silly error.
 
