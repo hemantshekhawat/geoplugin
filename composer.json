@@ -1,6 +1,7 @@
 {
     "name": "jairovsky/geoplugin",
     "description": "GeoPlugin.com library for PHP 5.3+",
+    "keywords": ["geolocation","geoprogramming"],
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
